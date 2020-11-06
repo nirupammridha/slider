@@ -1,5 +1,5 @@
 If you want to use your own custom navigation elements,
-For Owl Carousel 1
+For Owl Carousel version 1
 var owl = $('.owl-carousel');
 owl.owlCarousel();
 // Go to the next item
@@ -10,7 +10,7 @@ $('.customNextBtn').click(function() {
 $('.customPrevBtn').click(function() {
     owl.trigger('owl.next');
 })
-For Owl Carousel 2
+For Owl Carousel version 2
 var owl = $('.owl-carousel');
 owl.owlCarousel();
 // Go to the next item
